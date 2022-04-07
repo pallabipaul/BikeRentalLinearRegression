@@ -4,6 +4,7 @@ A US bike-sharing provider BoomBikes has recently suffered considerable dips in 
 The company wants to know:
 Which variables are significant in predicting the demand for shared bikes.
 How well those variables describe the bike demands
+
 Goal:
 Develop a model to find the variables which are significant the demand for shared bikes with the available independent variables.
 It will be used by the management to understand and manipulate the business strategy to meet the demand levels and meet the customer's expectations.
